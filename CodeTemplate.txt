@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//Love Me/Flirting On School/Romance Academy
+//Emily Weller
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (teacher collision) {
+    player falls down
 } else {
-    //Add event below
+    player stays upright
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (heart meter full) {
+    enter godmode
 } else {
-    //Add event below
+    proceed as normal
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (heart meter empty) {
+    game over
 } else {
-    //Add event below
+    game continues
 }
 
 
